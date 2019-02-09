@@ -1,0 +1,1668 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <ScrollView
+android:fillViewport="true"
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+>
+        <com.yotako.customView.YotakoConstraintLayout
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+>
+            <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_container_0_guidelines_top197c5e92_26f2_454b_8608_e92fadfe0604"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.23070000000000002" />
+            <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_container_0_guidelines_start197c5e92_26f2_454b_8608_e92fadfe0604"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0" />
+            <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_container_0_guidelines_bottom197c5e92_26f2_454b_8608_e92fadfe0604"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.24801" />
+            <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_container_0_guidelines_end197c5e92_26f2_454b_8608_e92fadfe0604"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="1" />
+            <com.yotako.customView.YotakoConstraintLayout
+android:id="@+id/artwork_dashboard_container_0_197c5e92_26f2_454b_8608_e92fadfe0604"
+android:background="#dcebda"
+app:originalWidth="375"
+app:originalHeight="15"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_marginTop="0dp"
+android:layout_marginBottom="0dp"
+android:layout_marginEnd="0dp"
+android:layout_marginStart="0dp"
+app:layout_constraintStart_toStartOf="@+id/artwork_dashboard_container_0_guidelines_start197c5e92_26f2_454b_8608_e92fadfe0604"
+app:layout_constraintTop_toTopOf="@+id/artwork_dashboard_container_0_guidelines_top197c5e92_26f2_454b_8608_e92fadfe0604"
+app:layout_constraintEnd_toEndOf="@+id/artwork_dashboard_container_0_guidelines_end197c5e92_26f2_454b_8608_e92fadfe0604"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_dashboard_container_0_guidelines_bottom197c5e92_26f2_454b_8608_e92fadfe0604">
+            </com.yotako.customView.YotakoConstraintLayout>
+            <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_2_guidelines_topd31c6f69_cced_4e85_9aef_bbba10fc0d98"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.2681" />
+            <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_2_guidelines_startd31c6f69_cced_4e85_9aef_bbba10fc0d98"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.0623" />
+            <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_2_guidelines_bottomd31c6f69_cced_4e85_9aef_bbba10fc0d98"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.39826" />
+            <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_2_guidelines_endd31c6f69_cced_4e85_9aef_bbba10fc0d98"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.9388900000000001" />
+            <com.yotako.customView.YotakoConstraintLayout
+android:id="@+id/artwork_dashboard_row_2_d31c6f69_cced_4e85_9aef_bbba10fc0d98"
+app:originalWidth="329"
+app:originalHeight="111"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_marginTop="0dp"
+android:layout_marginBottom="0dp"
+android:layout_marginEnd="0dp"
+android:layout_marginStart="0dp"
+app:layout_constraintStart_toStartOf="@+id/artwork_dashboard_row_2_guidelines_startd31c6f69_cced_4e85_9aef_bbba10fc0d98"
+app:layout_constraintTop_toTopOf="@+id/artwork_dashboard_row_2_guidelines_topd31c6f69_cced_4e85_9aef_bbba10fc0d98"
+app:layout_constraintEnd_toEndOf="@+id/artwork_dashboard_row_2_guidelines_endd31c6f69_cced_4e85_9aef_bbba10fc0d98"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_dashboard_row_2_guidelines_bottomd31c6f69_cced_4e85_9aef_bbba10fc0d98">
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_2_container_1_guidelines_top301bbfe6_f0ca_41db_a373_4d81e6628bda"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_2_container_1_guidelines_start301bbfe6_f0ca_41db_a373_4d81e6628bda"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_2_container_1_guidelines_bottom301bbfe6_f0ca_41db_a373_4d81e6628bda"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="1" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_2_container_1_guidelines_end301bbfe6_f0ca_41db_a373_4d81e6628bda"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.4833" />
+                <com.yotako.customView.YotakoConstraintLayout
+android:id="@+id/artwork_dashboard_row_2_container_1_301bbfe6_f0ca_41db_a373_4d81e6628bda"
+app:cornerRadius="3"
+app:shapeColor="#ffffff"
+app:originalWidth="159"
+app:originalHeight="111"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_marginTop="0dp"
+android:layout_marginBottom="0dp"
+android:layout_marginEnd="0dp"
+android:layout_marginStart="0dp"
+app:layout_constraintStart_toStartOf="@+id/artwork_dashboard_row_2_container_1_guidelines_start301bbfe6_f0ca_41db_a373_4d81e6628bda"
+app:layout_constraintTop_toTopOf="@+id/artwork_dashboard_row_2_container_1_guidelines_top301bbfe6_f0ca_41db_a373_4d81e6628bda"
+app:layout_constraintEnd_toEndOf="@+id/artwork_dashboard_row_2_container_1_guidelines_end301bbfe6_f0ca_41db_a373_4d81e6628bda"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_dashboard_row_2_container_1_guidelines_bottom301bbfe6_f0ca_41db_a373_4d81e6628bda">
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_2_container_1_image_0_guidelines_top2693479e_4e13_4f41_baff_2ed5fc145a7f"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.266" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_2_container_1_image_0_guidelines_start2693479e_4e13_4f41_baff_2ed5fc145a7f"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.3693" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_2_container_1_image_0_guidelines_bottom2693479e_4e13_4f41_baff_2ed5fc145a7f"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.56642" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_2_container_1_image_0_guidelines_end2693479e_4e13_4f41_baff_2ed5fc145a7f"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.6335599999999999" />
+                    <com.yotako.customView.YotakoImageView
+android:id="@+id/artwork_dashboard_row_2_container_1_image_0"
+app:customUrl="https://designresources.assets.yotako.io/yjqrub0jrwzpt67.png"
+android:alpha="1" 
+android:layout_height="0dp"
+android:layout_width="0dp"
+android:layout_weight="0"  android:adjustViewBounds="true" android:scaleType="fitXY"
+app:layout_constraintStart_toStartOf="@+id/artwork_dashboard_row_2_container_1_image_0_guidelines_start2693479e_4e13_4f41_baff_2ed5fc145a7f"
+app:layout_constraintTop_toTopOf="@+id/artwork_dashboard_row_2_container_1_image_0_guidelines_top2693479e_4e13_4f41_baff_2ed5fc145a7f"
+app:layout_constraintEnd_toEndOf="@+id/artwork_dashboard_row_2_container_1_image_0_guidelines_end2693479e_4e13_4f41_baff_2ed5fc145a7f"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_dashboard_row_2_container_1_image_0_guidelines_bottom2693479e_4e13_4f41_baff_2ed5fc145a7f" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_2_container_1_text_0_guidelines_topabe14511_90c7_4aee_84c6_1f1aee721b7a"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.7639" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_2_container_1_text_0_guidelines_startabe14511_90c7_4aee_84c6_1f1aee721b7a"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.2072" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_2_container_1_text_0_guidelines_bottomabe14511_90c7_4aee_84c6_1f1aee721b7a"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.83256" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_2_container_1_text_0_guidelines_endabe14511_90c7_4aee_84c6_1f1aee721b7a"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.79578" />
+                    <com.yotako.customView.YotakoTextView
+android:id="@+id/artwork_dashboard_row_2_container_1_text_0"
+android:fontFamily="cerapro"
+
+android:text="CREATE/AMEND WILLS" 
+android:textColor="#223420"
+android:textSize="9sp"
+app:autoSizeTextType="none"
+android:textStyle="bold"
+app:originalWidth="94"
+app:originalHeight="8"
+android:gravity="center_horizontal"
+android:layout_width="0dp"
+android:layout_height="11.52dp"
+android:layout_weight="1"
+app:layout_constraintStart_toStartOf="@+id/artwork_dashboard_row_2_container_1_text_0_guidelines_startabe14511_90c7_4aee_84c6_1f1aee721b7a"
+app:layout_constraintTop_toTopOf="@+id/artwork_dashboard_row_2_container_1_text_0_guidelines_topabe14511_90c7_4aee_84c6_1f1aee721b7a"
+app:layout_constraintEnd_toEndOf="@+id/artwork_dashboard_row_2_container_1_text_0_guidelines_endabe14511_90c7_4aee_84c6_1f1aee721b7a"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_dashboard_row_2_container_1_text_0_guidelines_bottomabe14511_90c7_4aee_84c6_1f1aee721b7a" />
+                </com.yotako.customView.YotakoConstraintLayout>
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_2_container_2_guidelines_topaf400c41_6633_40bb_9eed_859bed65cc85"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_2_container_2_guidelines_startaf400c41_6633_40bb_9eed_859bed65cc85"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.5152" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_2_container_2_guidelines_bottomaf400c41_6633_40bb_9eed_859bed65cc85"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="1" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_2_container_2_guidelines_endaf400c41_6633_40bb_9eed_859bed65cc85"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.9999600000000001" />
+                <com.yotako.customView.YotakoConstraintLayout
+android:id="@+id/artwork_dashboard_row_2_container_2_af400c41_6633_40bb_9eed_859bed65cc85"
+app:cornerRadius="3"
+app:shapeColor="#ffffff"
+app:originalWidth="159"
+app:originalHeight="111"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_marginTop="0dp"
+android:layout_marginBottom="0dp"
+android:layout_marginEnd="0dp"
+android:layout_marginStart="0dp"
+app:layout_constraintStart_toStartOf="@+id/artwork_dashboard_row_2_container_2_guidelines_startaf400c41_6633_40bb_9eed_859bed65cc85"
+app:layout_constraintTop_toTopOf="@+id/artwork_dashboard_row_2_container_2_guidelines_topaf400c41_6633_40bb_9eed_859bed65cc85"
+app:layout_constraintEnd_toEndOf="@+id/artwork_dashboard_row_2_container_2_guidelines_endaf400c41_6633_40bb_9eed_859bed65cc85"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_dashboard_row_2_container_2_guidelines_bottomaf400c41_6633_40bb_9eed_859bed65cc85">
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_2_container_2_image_1_guidelines_topba35c05d_1086_4196_b6be_3baccb0b57e3"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.266" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_2_container_2_image_1_guidelines_startba35c05d_1086_4196_b6be_3baccb0b57e3"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.41609999999999997" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_2_container_2_image_1_guidelines_bottomba35c05d_1086_4196_b6be_3baccb0b57e3"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.56642" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_2_container_2_image_1_guidelines_endba35c05d_1086_4196_b6be_3baccb0b57e3"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.58376" />
+                    <com.yotako.customView.YotakoImageView
+android:id="@+id/artwork_dashboard_row_2_container_2_image_1"
+app:customUrl="https://designresources.assets.yotako.io/yjqrub0jrwzptjc.png"
+android:alpha="1" 
+android:layout_height="0dp"
+android:layout_width="0dp"
+android:layout_weight="0"  android:adjustViewBounds="true" android:scaleType="fitXY"
+app:layout_constraintStart_toStartOf="@+id/artwork_dashboard_row_2_container_2_image_1_guidelines_startba35c05d_1086_4196_b6be_3baccb0b57e3"
+app:layout_constraintTop_toTopOf="@+id/artwork_dashboard_row_2_container_2_image_1_guidelines_topba35c05d_1086_4196_b6be_3baccb0b57e3"
+app:layout_constraintEnd_toEndOf="@+id/artwork_dashboard_row_2_container_2_image_1_guidelines_endba35c05d_1086_4196_b6be_3baccb0b57e3"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_dashboard_row_2_container_2_image_1_guidelines_bottomba35c05d_1086_4196_b6be_3baccb0b57e3" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_2_container_2_text_1_guidelines_topc824a025_b3b4_4915_9b29_b14b69b6f624"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.7681999999999999" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_2_container_2_text_1_guidelines_startc824a025_b3b4_4915_9b29_b14b69b6f624"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.26039999999999996" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_2_container_2_text_1_guidelines_bottomc824a025_b3b4_4915_9b29_b14b69b6f624"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.8282799999999999" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_2_container_2_text_1_guidelines_endc824a025_b3b4_4915_9b29_b14b69b6f624"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.74542" />
+                    <com.yotako.customView.YotakoTextView
+android:id="@+id/artwork_dashboard_row_2_container_2_text_1"
+android:fontFamily="cerapro"
+
+android:text="SHARE DOCUMENT" 
+android:textColor="#223420"
+android:textSize="9sp"
+app:autoSizeTextType="none"
+android:textStyle="bold"
+app:originalWidth="77"
+app:originalHeight="7"
+android:gravity="center_horizontal"
+android:layout_width="0dp"
+android:layout_height="10.08dp"
+android:layout_weight="1"
+app:layout_constraintStart_toStartOf="@+id/artwork_dashboard_row_2_container_2_text_1_guidelines_startc824a025_b3b4_4915_9b29_b14b69b6f624"
+app:layout_constraintTop_toTopOf="@+id/artwork_dashboard_row_2_container_2_text_1_guidelines_topc824a025_b3b4_4915_9b29_b14b69b6f624"
+app:layout_constraintEnd_toEndOf="@+id/artwork_dashboard_row_2_container_2_text_1_guidelines_endc824a025_b3b4_4915_9b29_b14b69b6f624"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_dashboard_row_2_container_2_text_1_guidelines_bottomc824a025_b3b4_4915_9b29_b14b69b6f624" />
+                </com.yotako.customView.YotakoConstraintLayout>
+            </com.yotako.customView.YotakoConstraintLayout>
+            <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_3_guidelines_top5aab722e_a92e_43ac_b966_2d2bee00bf35"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.4128" />
+            <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_3_guidelines_start5aab722e_a92e_43ac_b966_2d2bee00bf35"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.0623" />
+            <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_3_guidelines_bottom5aab722e_a92e_43ac_b966_2d2bee00bf35"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.54296" />
+            <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_3_guidelines_end5aab722e_a92e_43ac_b966_2d2bee00bf35"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.9388900000000001" />
+            <com.yotako.customView.YotakoConstraintLayout
+android:id="@+id/artwork_dashboard_row_3_5aab722e_a92e_43ac_b966_2d2bee00bf35"
+app:originalWidth="329"
+app:originalHeight="111"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_marginTop="0dp"
+android:layout_marginBottom="0dp"
+android:layout_marginEnd="0dp"
+android:layout_marginStart="0dp"
+app:layout_constraintStart_toStartOf="@+id/artwork_dashboard_row_3_guidelines_start5aab722e_a92e_43ac_b966_2d2bee00bf35"
+app:layout_constraintTop_toTopOf="@+id/artwork_dashboard_row_3_guidelines_top5aab722e_a92e_43ac_b966_2d2bee00bf35"
+app:layout_constraintEnd_toEndOf="@+id/artwork_dashboard_row_3_guidelines_end5aab722e_a92e_43ac_b966_2d2bee00bf35"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_dashboard_row_3_guidelines_bottom5aab722e_a92e_43ac_b966_2d2bee00bf35">
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_3_container_3_guidelines_top024fbd5c_5c17_41b6_94a6_9b66d48f89e4"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_3_container_3_guidelines_start024fbd5c_5c17_41b6_94a6_9b66d48f89e4"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_3_container_3_guidelines_bottom024fbd5c_5c17_41b6_94a6_9b66d48f89e4"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="1" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_3_container_3_guidelines_end024fbd5c_5c17_41b6_94a6_9b66d48f89e4"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.4833" />
+                <com.yotako.customView.YotakoConstraintLayout
+android:id="@+id/artwork_dashboard_row_3_container_3_024fbd5c_5c17_41b6_94a6_9b66d48f89e4"
+app:cornerRadius="3"
+app:shapeColor="#ffffff"
+app:originalWidth="159"
+app:originalHeight="111"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_marginTop="0dp"
+android:layout_marginBottom="0dp"
+android:layout_marginEnd="0dp"
+android:layout_marginStart="0dp"
+app:layout_constraintStart_toStartOf="@+id/artwork_dashboard_row_3_container_3_guidelines_start024fbd5c_5c17_41b6_94a6_9b66d48f89e4"
+app:layout_constraintTop_toTopOf="@+id/artwork_dashboard_row_3_container_3_guidelines_top024fbd5c_5c17_41b6_94a6_9b66d48f89e4"
+app:layout_constraintEnd_toEndOf="@+id/artwork_dashboard_row_3_container_3_guidelines_end024fbd5c_5c17_41b6_94a6_9b66d48f89e4"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_dashboard_row_3_container_3_guidelines_bottom024fbd5c_5c17_41b6_94a6_9b66d48f89e4">
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_3_container_3_image_2_guidelines_top494a037c_9b71_4eb9_993a_be5c65e0ba59"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.2618" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_3_container_3_image_2_guidelines_start494a037c_9b71_4eb9_993a_be5c65e0ba59"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.3933" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_3_container_3_image_2_guidelines_bottom494a037c_9b71_4eb9_993a_be5c65e0ba59"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.56222" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_3_container_3_image_2_guidelines_end494a037c_9b71_4eb9_993a_be5c65e0ba59"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.6095099999999999" />
+                    <com.yotako.customView.YotakoImageView
+android:id="@+id/artwork_dashboard_row_3_container_3_image_2"
+app:customUrl="https://designresources.assets.yotako.io/yjqrub0jrwzptwe.png"
+android:alpha="1" 
+android:layout_height="0dp"
+android:layout_width="0dp"
+android:layout_weight="0"  android:adjustViewBounds="true" android:scaleType="fitXY"
+app:layout_constraintStart_toStartOf="@+id/artwork_dashboard_row_3_container_3_image_2_guidelines_start494a037c_9b71_4eb9_993a_be5c65e0ba59"
+app:layout_constraintTop_toTopOf="@+id/artwork_dashboard_row_3_container_3_image_2_guidelines_top494a037c_9b71_4eb9_993a_be5c65e0ba59"
+app:layout_constraintEnd_toEndOf="@+id/artwork_dashboard_row_3_container_3_image_2_guidelines_end494a037c_9b71_4eb9_993a_be5c65e0ba59"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_dashboard_row_3_container_3_image_2_guidelines_bottom494a037c_9b71_4eb9_993a_be5c65e0ba59" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_3_container_3_text_2_guidelines_topfaa939f9_8177_4d7c_8f5a_bc5bef1f691f"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.7639" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_3_container_3_text_2_guidelines_startfaa939f9_8177_4d7c_8f5a_bc5bef1f691f"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.1051" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_3_container_3_text_2_guidelines_bottomfaa939f9_8177_4d7c_8f5a_bc5bef1f691f"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.8239799999999999" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_3_container_3_text_2_guidelines_endfaa939f9_8177_4d7c_8f5a_bc5bef1f691f"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.89789" />
+                    <com.yotako.customView.YotakoTextView
+android:id="@+id/artwork_dashboard_row_3_container_3_text_2"
+android:fontFamily="cerapro"
+
+android:text="REGISTRATION OF DEATH CASE" 
+android:textColor="#223420"
+android:textSize="9sp"
+app:autoSizeTextType="none"
+android:textStyle="bold"
+app:originalWidth="126"
+app:originalHeight="7"
+android:gravity="center_horizontal"
+android:layout_width="0dp"
+android:layout_height="10.08dp"
+android:layout_weight="1"
+app:layout_constraintStart_toStartOf="@+id/artwork_dashboard_row_3_container_3_text_2_guidelines_startfaa939f9_8177_4d7c_8f5a_bc5bef1f691f"
+app:layout_constraintTop_toTopOf="@+id/artwork_dashboard_row_3_container_3_text_2_guidelines_topfaa939f9_8177_4d7c_8f5a_bc5bef1f691f"
+app:layout_constraintEnd_toEndOf="@+id/artwork_dashboard_row_3_container_3_text_2_guidelines_endfaa939f9_8177_4d7c_8f5a_bc5bef1f691f"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_dashboard_row_3_container_3_text_2_guidelines_bottomfaa939f9_8177_4d7c_8f5a_bc5bef1f691f" />
+                </com.yotako.customView.YotakoConstraintLayout>
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_3_container_4_guidelines_topce358dd9_596b_430d_9b5f_df1f13bd81fd"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_3_container_4_guidelines_startce358dd9_596b_430d_9b5f_df1f13bd81fd"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.5152" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_3_container_4_guidelines_bottomce358dd9_596b_430d_9b5f_df1f13bd81fd"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="1" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_3_container_4_guidelines_endce358dd9_596b_430d_9b5f_df1f13bd81fd"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.9999600000000001" />
+                <com.yotako.customView.YotakoConstraintLayout
+android:id="@+id/artwork_dashboard_row_3_container_4_ce358dd9_596b_430d_9b5f_df1f13bd81fd"
+app:cornerRadius="3"
+app:shapeColor="#ffffff"
+app:originalWidth="159"
+app:originalHeight="111"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_marginTop="0dp"
+android:layout_marginBottom="0dp"
+android:layout_marginEnd="0dp"
+android:layout_marginStart="0dp"
+app:layout_constraintStart_toStartOf="@+id/artwork_dashboard_row_3_container_4_guidelines_startce358dd9_596b_430d_9b5f_df1f13bd81fd"
+app:layout_constraintTop_toTopOf="@+id/artwork_dashboard_row_3_container_4_guidelines_topce358dd9_596b_430d_9b5f_df1f13bd81fd"
+app:layout_constraintEnd_toEndOf="@+id/artwork_dashboard_row_3_container_4_guidelines_endce358dd9_596b_430d_9b5f_df1f13bd81fd"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_dashboard_row_3_container_4_guidelines_bottomce358dd9_596b_430d_9b5f_df1f13bd81fd">
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_3_container_4_image_3_guidelines_tope6e272ce_7b5b_49dc_89c6_84d483d936d6"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.2618" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_3_container_4_image_3_guidelines_starte6e272ce_7b5b_49dc_89c6_84d483d936d6"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.3592" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_3_container_4_image_3_guidelines_bottome6e272ce_7b5b_49dc_89c6_84d483d936d6"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.56222" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_3_container_4_image_3_guidelines_ende6e272ce_7b5b_49dc_89c6_84d483d936d6"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.64363" />
+                    <com.yotako.customView.YotakoImageView
+android:id="@+id/artwork_dashboard_row_3_container_4_image_3"
+app:customUrl="https://designresources.assets.yotako.io/yjqrub0jrwzpu93.png"
+android:alpha="1" 
+android:layout_height="0dp"
+android:layout_width="0dp"
+android:layout_weight="0"  android:adjustViewBounds="true" android:scaleType="fitXY"
+app:layout_constraintStart_toStartOf="@+id/artwork_dashboard_row_3_container_4_image_3_guidelines_starte6e272ce_7b5b_49dc_89c6_84d483d936d6"
+app:layout_constraintTop_toTopOf="@+id/artwork_dashboard_row_3_container_4_image_3_guidelines_tope6e272ce_7b5b_49dc_89c6_84d483d936d6"
+app:layout_constraintEnd_toEndOf="@+id/artwork_dashboard_row_3_container_4_image_3_guidelines_ende6e272ce_7b5b_49dc_89c6_84d483d936d6"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_dashboard_row_3_container_4_image_3_guidelines_bottome6e272ce_7b5b_49dc_89c6_84d483d936d6" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_3_container_4_text_3_guidelines_top865d4391_9cab_47db_b9f1_f8449670421d"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.7639" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_3_container_4_text_3_guidelines_start865d4391_9cab_47db_b9f1_f8449670421d"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.34130000000000005" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_3_container_4_text_3_guidelines_bottom865d4391_9cab_47db_b9f1_f8449670421d"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.8239799999999999" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_3_container_4_text_3_guidelines_end865d4391_9cab_47db_b9f1_f8449670421d"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.65866" />
+                    <com.yotako.customView.YotakoTextView
+android:id="@+id/artwork_dashboard_row_3_container_4_text_3"
+android:fontFamily="cerapro"
+
+android:text="CORPORATE" 
+android:textColor="#223420"
+android:textSize="9sp"
+app:autoSizeTextType="none"
+android:textStyle="bold"
+app:originalWidth="51"
+app:originalHeight="7"
+android:gravity="center_horizontal"
+android:layout_width="0dp"
+android:layout_height="10.08dp"
+android:layout_weight="1"
+app:layout_constraintStart_toStartOf="@+id/artwork_dashboard_row_3_container_4_text_3_guidelines_start865d4391_9cab_47db_b9f1_f8449670421d"
+app:layout_constraintTop_toTopOf="@+id/artwork_dashboard_row_3_container_4_text_3_guidelines_top865d4391_9cab_47db_b9f1_f8449670421d"
+app:layout_constraintEnd_toEndOf="@+id/artwork_dashboard_row_3_container_4_text_3_guidelines_end865d4391_9cab_47db_b9f1_f8449670421d"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_dashboard_row_3_container_4_text_3_guidelines_bottom865d4391_9cab_47db_b9f1_f8449670421d" />
+                </com.yotako.customView.YotakoConstraintLayout>
+            </com.yotako.customView.YotakoConstraintLayout>
+            <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_4_guidelines_top6946fe07_728c_4422_be9c_3091a1ae1851"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.5564" />
+            <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_4_guidelines_start6946fe07_728c_4422_be9c_3091a1ae1851"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.0623" />
+            <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_4_guidelines_bottom6946fe07_728c_4422_be9c_3091a1ae1851"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.6871200000000001" />
+            <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_4_guidelines_end6946fe07_728c_4422_be9c_3091a1ae1851"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.9388900000000001" />
+            <com.yotako.customView.YotakoConstraintLayout
+android:id="@+id/artwork_dashboard_row_4_6946fe07_728c_4422_be9c_3091a1ae1851"
+app:originalWidth="329"
+app:originalHeight="112"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_marginTop="0dp"
+android:layout_marginBottom="0dp"
+android:layout_marginEnd="0dp"
+android:layout_marginStart="0dp"
+app:layout_constraintStart_toStartOf="@+id/artwork_dashboard_row_4_guidelines_start6946fe07_728c_4422_be9c_3091a1ae1851"
+app:layout_constraintTop_toTopOf="@+id/artwork_dashboard_row_4_guidelines_top6946fe07_728c_4422_be9c_3091a1ae1851"
+app:layout_constraintEnd_toEndOf="@+id/artwork_dashboard_row_4_guidelines_end6946fe07_728c_4422_be9c_3091a1ae1851"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_dashboard_row_4_guidelines_bottom6946fe07_728c_4422_be9c_3091a1ae1851">
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_4_container_5_guidelines_top0f258810_f103_450c_9332_9db9dde6965d"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_4_container_5_guidelines_start0f258810_f103_450c_9332_9db9dde6965d"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_4_container_5_guidelines_bottom0f258810_f103_450c_9332_9db9dde6965d"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="1" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_4_container_5_guidelines_end0f258810_f103_450c_9332_9db9dde6965d"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.4833" />
+                <com.yotako.customView.YotakoConstraintLayout
+android:id="@+id/artwork_dashboard_row_4_container_5_0f258810_f103_450c_9332_9db9dde6965d"
+app:cornerRadius="3"
+app:shapeColor="#ffffff"
+app:originalWidth="159"
+app:originalHeight="112"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_marginTop="0dp"
+android:layout_marginBottom="0dp"
+android:layout_marginEnd="0dp"
+android:layout_marginStart="0dp"
+app:layout_constraintStart_toStartOf="@+id/artwork_dashboard_row_4_container_5_guidelines_start0f258810_f103_450c_9332_9db9dde6965d"
+app:layout_constraintTop_toTopOf="@+id/artwork_dashboard_row_4_container_5_guidelines_top0f258810_f103_450c_9332_9db9dde6965d"
+app:layout_constraintEnd_toEndOf="@+id/artwork_dashboard_row_4_container_5_guidelines_end0f258810_f103_450c_9332_9db9dde6965d"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_dashboard_row_4_container_5_guidelines_bottom0f258810_f103_450c_9332_9db9dde6965d">
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_4_container_5_image_4_guidelines_topf0bc4a29_4b6e_4d0a_b300_eabc665b0755"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.26489999999999997" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_4_container_5_image_4_guidelines_startf0bc4a29_4b6e_4d0a_b300_eabc665b0755"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.4174" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_4_container_5_image_4_guidelines_bottomf0bc4a29_4b6e_4d0a_b300_eabc665b0755"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.56404" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_4_container_5_image_4_guidelines_endf0bc4a29_4b6e_4d0a_b300_eabc665b0755"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.58556" />
+                    <com.yotako.customView.YotakoImageView
+android:id="@+id/artwork_dashboard_row_4_container_5_image_4"
+app:customUrl="https://designresources.assets.yotako.io/yjqrub0jrwzpulz.png"
+android:alpha="1" 
+android:layout_height="0dp"
+android:layout_width="0dp"
+android:layout_weight="0"  android:adjustViewBounds="true" android:scaleType="fitXY"
+app:layout_constraintStart_toStartOf="@+id/artwork_dashboard_row_4_container_5_image_4_guidelines_startf0bc4a29_4b6e_4d0a_b300_eabc665b0755"
+app:layout_constraintTop_toTopOf="@+id/artwork_dashboard_row_4_container_5_image_4_guidelines_topf0bc4a29_4b6e_4d0a_b300_eabc665b0755"
+app:layout_constraintEnd_toEndOf="@+id/artwork_dashboard_row_4_container_5_image_4_guidelines_endf0bc4a29_4b6e_4d0a_b300_eabc665b0755"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_dashboard_row_4_container_5_image_4_guidelines_bottomf0bc4a29_4b6e_4d0a_b300_eabc665b0755" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_4_container_5_text_4_guidelines_top17ce2d17_d068_4292_a756_4571e420e3df"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.7648999999999999" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_4_container_5_text_4_guidelines_start17ce2d17_d068_4292_a756_4571e420e3df"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.3663" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_4_container_5_text_4_guidelines_bottom17ce2d17_d068_4292_a756_4571e420e3df"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.8247199999999999" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_4_container_5_text_4_guidelines_end17ce2d17_d068_4292_a756_4571e420e3df"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.6395700000000001" />
+                    <com.yotako.customView.YotakoTextView
+android:id="@+id/artwork_dashboard_row_4_container_5_text_4"
+android:fontFamily="cerapro"
+
+android:text="H.R NOTES" 
+android:textColor="#223420"
+android:textSize="9sp"
+app:autoSizeTextType="none"
+android:textStyle="bold"
+app:originalWidth="43"
+app:originalHeight="7"
+android:gravity="center_horizontal"
+android:layout_width="0dp"
+android:layout_height="10.08dp"
+android:layout_weight="1"
+app:layout_constraintStart_toStartOf="@+id/artwork_dashboard_row_4_container_5_text_4_guidelines_start17ce2d17_d068_4292_a756_4571e420e3df"
+app:layout_constraintTop_toTopOf="@+id/artwork_dashboard_row_4_container_5_text_4_guidelines_top17ce2d17_d068_4292_a756_4571e420e3df"
+app:layout_constraintEnd_toEndOf="@+id/artwork_dashboard_row_4_container_5_text_4_guidelines_end17ce2d17_d068_4292_a756_4571e420e3df"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_dashboard_row_4_container_5_text_4_guidelines_bottom17ce2d17_d068_4292_a756_4571e420e3df" />
+                </com.yotako.customView.YotakoConstraintLayout>
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_4_container_6_guidelines_topfbf00623_b268_40be_a715_90151eaaea40"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_4_container_6_guidelines_startfbf00623_b268_40be_a715_90151eaaea40"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.5152" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_4_container_6_guidelines_bottomfbf00623_b268_40be_a715_90151eaaea40"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="1" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_4_container_6_guidelines_endfbf00623_b268_40be_a715_90151eaaea40"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.9999600000000001" />
+                <com.yotako.customView.YotakoConstraintLayout
+android:id="@+id/artwork_dashboard_row_4_container_6_fbf00623_b268_40be_a715_90151eaaea40"
+app:cornerRadius="3"
+app:shapeColor="#ffffff"
+app:originalWidth="159"
+app:originalHeight="112"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_marginTop="0dp"
+android:layout_marginBottom="0dp"
+android:layout_marginEnd="0dp"
+android:layout_marginStart="0dp"
+app:layout_constraintStart_toStartOf="@+id/artwork_dashboard_row_4_container_6_guidelines_startfbf00623_b268_40be_a715_90151eaaea40"
+app:layout_constraintTop_toTopOf="@+id/artwork_dashboard_row_4_container_6_guidelines_topfbf00623_b268_40be_a715_90151eaaea40"
+app:layout_constraintEnd_toEndOf="@+id/artwork_dashboard_row_4_container_6_guidelines_endfbf00623_b268_40be_a715_90151eaaea40"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_dashboard_row_4_container_6_guidelines_bottomfbf00623_b268_40be_a715_90151eaaea40">
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_4_container_6_image_5_guidelines_topa42a2826_c655_43fe_b162_41845031f8b8"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.26489999999999997" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_4_container_6_image_5_guidelines_starta42a2826_c655_43fe_b162_41845031f8b8"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.3922" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_4_container_6_image_5_guidelines_bottoma42a2826_c655_43fe_b162_41845031f8b8"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.56404" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_4_container_6_image_5_guidelines_enda42a2826_c655_43fe_b162_41845031f8b8"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.60776" />
+                    <com.yotako.customView.YotakoImageView
+android:id="@+id/artwork_dashboard_row_4_container_6_image_5"
+app:customUrl="https://designresources.assets.yotako.io/yjqrub0jrwzpuzp.png"
+android:alpha="1" 
+android:layout_height="0dp"
+android:layout_width="0dp"
+android:layout_weight="0"  android:adjustViewBounds="true" android:scaleType="fitXY"
+app:layout_constraintStart_toStartOf="@+id/artwork_dashboard_row_4_container_6_image_5_guidelines_starta42a2826_c655_43fe_b162_41845031f8b8"
+app:layout_constraintTop_toTopOf="@+id/artwork_dashboard_row_4_container_6_image_5_guidelines_topa42a2826_c655_43fe_b162_41845031f8b8"
+app:layout_constraintEnd_toEndOf="@+id/artwork_dashboard_row_4_container_6_image_5_guidelines_enda42a2826_c655_43fe_b162_41845031f8b8"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_dashboard_row_4_container_6_image_5_guidelines_bottoma42a2826_c655_43fe_b162_41845031f8b8" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_4_container_6_text_5_guidelines_topb89120ff_f293_4b60_b860_d18e961d0371"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.7648999999999999" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_4_container_6_text_5_guidelines_startb89120ff_f293_4b60_b860_d18e961d0371"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.2664" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_4_container_6_text_5_guidelines_bottomb89120ff_f293_4b60_b860_d18e961d0371"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.8247199999999999" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_4_container_6_text_5_guidelines_endb89120ff_f293_4b60_b860_d18e961d0371"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.73645" />
+                    <com.yotako.customView.YotakoTextView
+android:id="@+id/artwork_dashboard_row_4_container_6_text_5"
+android:fontFamily="cerapro"
+
+android:text="FINANCIAL ASSETS" 
+android:textColor="#223420"
+android:textSize="9sp"
+app:autoSizeTextType="none"
+android:textStyle="bold"
+app:originalWidth="75"
+app:originalHeight="7"
+android:gravity="center_horizontal"
+android:layout_width="0dp"
+android:layout_height="10.08dp"
+android:layout_weight="1"
+app:layout_constraintStart_toStartOf="@+id/artwork_dashboard_row_4_container_6_text_5_guidelines_startb89120ff_f293_4b60_b860_d18e961d0371"
+app:layout_constraintTop_toTopOf="@+id/artwork_dashboard_row_4_container_6_text_5_guidelines_topb89120ff_f293_4b60_b860_d18e961d0371"
+app:layout_constraintEnd_toEndOf="@+id/artwork_dashboard_row_4_container_6_text_5_guidelines_endb89120ff_f293_4b60_b860_d18e961d0371"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_dashboard_row_4_container_6_text_5_guidelines_bottomb89120ff_f293_4b60_b860_d18e961d0371" />
+                </com.yotako.customView.YotakoConstraintLayout>
+            </com.yotako.customView.YotakoConstraintLayout>
+            <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_5_guidelines_top44b3d31a_5965_4d69_bc9d_4e1b9b1e9935"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.7005" />
+            <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_5_guidelines_start44b3d31a_5965_4d69_bc9d_4e1b9b1e9935"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.0623" />
+            <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_5_guidelines_bottom44b3d31a_5965_4d69_bc9d_4e1b9b1e9935"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.8306600000000001" />
+            <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_5_guidelines_end44b3d31a_5965_4d69_bc9d_4e1b9b1e9935"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.9388900000000001" />
+            <com.yotako.customView.YotakoConstraintLayout
+android:id="@+id/artwork_dashboard_row_5_44b3d31a_5965_4d69_bc9d_4e1b9b1e9935"
+app:originalWidth="329"
+app:originalHeight="111"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_marginTop="0dp"
+android:layout_marginBottom="0dp"
+android:layout_marginEnd="0dp"
+android:layout_marginStart="0dp"
+app:layout_constraintStart_toStartOf="@+id/artwork_dashboard_row_5_guidelines_start44b3d31a_5965_4d69_bc9d_4e1b9b1e9935"
+app:layout_constraintTop_toTopOf="@+id/artwork_dashboard_row_5_guidelines_top44b3d31a_5965_4d69_bc9d_4e1b9b1e9935"
+app:layout_constraintEnd_toEndOf="@+id/artwork_dashboard_row_5_guidelines_end44b3d31a_5965_4d69_bc9d_4e1b9b1e9935"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_dashboard_row_5_guidelines_bottom44b3d31a_5965_4d69_bc9d_4e1b9b1e9935">
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_5_container_7_guidelines_top8c4b884c_152c_40a8_8640_32f6f81c2f39"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_5_container_7_guidelines_start8c4b884c_152c_40a8_8640_32f6f81c2f39"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_5_container_7_guidelines_bottom8c4b884c_152c_40a8_8640_32f6f81c2f39"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="1" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_5_container_7_guidelines_end8c4b884c_152c_40a8_8640_32f6f81c2f39"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.4833" />
+                <com.yotako.customView.YotakoConstraintLayout
+android:id="@+id/artwork_dashboard_row_5_container_7_8c4b884c_152c_40a8_8640_32f6f81c2f39"
+app:cornerRadius="3"
+app:shapeColor="#ffffff"
+app:originalWidth="159"
+app:originalHeight="111"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_marginTop="0dp"
+android:layout_marginBottom="0dp"
+android:layout_marginEnd="0dp"
+android:layout_marginStart="0dp"
+app:layout_constraintStart_toStartOf="@+id/artwork_dashboard_row_5_container_7_guidelines_start8c4b884c_152c_40a8_8640_32f6f81c2f39"
+app:layout_constraintTop_toTopOf="@+id/artwork_dashboard_row_5_container_7_guidelines_top8c4b884c_152c_40a8_8640_32f6f81c2f39"
+app:layout_constraintEnd_toEndOf="@+id/artwork_dashboard_row_5_container_7_guidelines_end8c4b884c_152c_40a8_8640_32f6f81c2f39"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_dashboard_row_5_container_7_guidelines_bottom8c4b884c_152c_40a8_8640_32f6f81c2f39">
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_5_container_7_image_6_guidelines_topd8095517_f67c_4829_9a4e_d0eef81683fd"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.266" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_5_container_7_image_6_guidelines_startd8095517_f67c_4829_9a4e_d0eef81683fd"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.39030000000000004" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_5_container_7_image_6_guidelines_bottomd8095517_f67c_4829_9a4e_d0eef81683fd"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.56642" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_5_container_7_image_6_guidelines_endd8095517_f67c_4829_9a4e_d0eef81683fd"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.61552" />
+                    <com.yotako.customView.YotakoImageView
+android:id="@+id/artwork_dashboard_row_5_container_7_image_6"
+app:customUrl="https://designresources.assets.yotako.io/yjqrub0jrwzpvco.png"
+android:alpha="1" 
+android:layout_height="0dp"
+android:layout_width="0dp"
+android:layout_weight="0"  android:adjustViewBounds="true" android:scaleType="fitXY"
+app:layout_constraintStart_toStartOf="@+id/artwork_dashboard_row_5_container_7_image_6_guidelines_startd8095517_f67c_4829_9a4e_d0eef81683fd"
+app:layout_constraintTop_toTopOf="@+id/artwork_dashboard_row_5_container_7_image_6_guidelines_topd8095517_f67c_4829_9a4e_d0eef81683fd"
+app:layout_constraintEnd_toEndOf="@+id/artwork_dashboard_row_5_container_7_image_6_guidelines_endd8095517_f67c_4829_9a4e_d0eef81683fd"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_dashboard_row_5_container_7_image_6_guidelines_bottomd8095517_f67c_4829_9a4e_d0eef81683fd" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_5_container_7_text_6_guidelines_top00e0b9ae_89e7_41d2_8541_cb911a032800"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.7253000000000001" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_5_container_7_text_6_guidelines_start00e0b9ae_89e7_41d2_8541_cb911a032800"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.1501" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_5_container_7_text_6_guidelines_bottom00e0b9ae_89e7_41d2_8541_cb911a032800"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.87122" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_5_container_7_text_6_guidelines_end00e0b9ae_89e7_41d2_8541_cb911a032800"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.8528" />
+                    <com.yotako.customView.YotakoTextView
+android:id="@+id/artwork_dashboard_row_5_container_7_text_6"
+android:fontFamily="cerapro"
+
+android:text="ENQUIRY REGISTRATION TO
+PROCEED" 
+android:textColor="#223420"
+android:textSize="9sp"
+app:autoSizeTextType="none"
+android:textStyle="bold"
+app:originalWidth="112"
+app:originalHeight="16"
+android:gravity="center_horizontal"
+android:layout_width="0dp"
+android:layout_height="23.04dp"
+android:layout_weight="1"
+app:layout_constraintStart_toStartOf="@+id/artwork_dashboard_row_5_container_7_text_6_guidelines_start00e0b9ae_89e7_41d2_8541_cb911a032800"
+app:layout_constraintTop_toTopOf="@+id/artwork_dashboard_row_5_container_7_text_6_guidelines_top00e0b9ae_89e7_41d2_8541_cb911a032800"
+app:layout_constraintEnd_toEndOf="@+id/artwork_dashboard_row_5_container_7_text_6_guidelines_end00e0b9ae_89e7_41d2_8541_cb911a032800"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_dashboard_row_5_container_7_text_6_guidelines_bottom00e0b9ae_89e7_41d2_8541_cb911a032800" />
+                </com.yotako.customView.YotakoConstraintLayout>
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_5_container_8_guidelines_top49f925ba_7407_435c_b65a_281125ff3eb5"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_5_container_8_guidelines_start49f925ba_7407_435c_b65a_281125ff3eb5"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.5152" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_5_container_8_guidelines_bottom49f925ba_7407_435c_b65a_281125ff3eb5"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="1" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_5_container_8_guidelines_end49f925ba_7407_435c_b65a_281125ff3eb5"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.9999600000000001" />
+                <com.yotako.customView.YotakoConstraintLayout
+android:id="@+id/artwork_dashboard_row_5_container_8_49f925ba_7407_435c_b65a_281125ff3eb5"
+app:cornerRadius="3"
+app:shapeColor="#ffffff"
+app:originalWidth="159"
+app:originalHeight="111"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_marginTop="0dp"
+android:layout_marginBottom="0dp"
+android:layout_marginEnd="0dp"
+android:layout_marginStart="0dp"
+app:layout_constraintStart_toStartOf="@+id/artwork_dashboard_row_5_container_8_guidelines_start49f925ba_7407_435c_b65a_281125ff3eb5"
+app:layout_constraintTop_toTopOf="@+id/artwork_dashboard_row_5_container_8_guidelines_top49f925ba_7407_435c_b65a_281125ff3eb5"
+app:layout_constraintEnd_toEndOf="@+id/artwork_dashboard_row_5_container_8_guidelines_end49f925ba_7407_435c_b65a_281125ff3eb5"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_dashboard_row_5_container_8_guidelines_bottom49f925ba_7407_435c_b65a_281125ff3eb5">
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_5_container_8_image_7_guidelines_topeda877c5_4f7a_40f1_85f4_cfa7703f8120"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.266" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_5_container_8_image_7_guidelines_starteda877c5_4f7a_40f1_85f4_cfa7703f8120"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.39520000000000005" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_5_container_8_image_7_guidelines_bottomeda877c5_4f7a_40f1_85f4_cfa7703f8120"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.56642" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_5_container_8_image_7_guidelines_endeda877c5_4f7a_40f1_85f4_cfa7703f8120"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.60478" />
+                    <com.yotako.customView.YotakoImageView
+android:id="@+id/artwork_dashboard_row_5_container_8_image_7"
+app:customUrl="https://designresources.assets.yotako.io/yjqrub0jrwzpvpn.png"
+android:alpha="1" 
+android:layout_height="0dp"
+android:layout_width="0dp"
+android:layout_weight="0"  android:adjustViewBounds="true" android:scaleType="fitXY"
+app:layout_constraintStart_toStartOf="@+id/artwork_dashboard_row_5_container_8_image_7_guidelines_starteda877c5_4f7a_40f1_85f4_cfa7703f8120"
+app:layout_constraintTop_toTopOf="@+id/artwork_dashboard_row_5_container_8_image_7_guidelines_topeda877c5_4f7a_40f1_85f4_cfa7703f8120"
+app:layout_constraintEnd_toEndOf="@+id/artwork_dashboard_row_5_container_8_image_7_guidelines_endeda877c5_4f7a_40f1_85f4_cfa7703f8120"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_dashboard_row_5_container_8_image_7_guidelines_bottomeda877c5_4f7a_40f1_85f4_cfa7703f8120" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_5_container_8_text_7_guidelines_topd7de1e87_a990_4bdf_aaaa_4bbf769ea1ea"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.7681999999999999" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_5_container_8_text_7_guidelines_startd7de1e87_a990_4bdf_aaaa_4bbf769ea1ea"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.3443" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_5_container_8_text_7_guidelines_bottomd7de1e87_a990_4bdf_aaaa_4bbf769ea1ea"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.8282799999999999" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_5_container_8_text_7_guidelines_endd7de1e87_a990_4bdf_aaaa_4bbf769ea1ea"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.65268" />
+                    <com.yotako.customView.YotakoTextView
+android:id="@+id/artwork_dashboard_row_5_container_8_text_7"
+android:fontFamily="cerapro"
+
+android:text="ACTIVATION" 
+android:textColor="#223420"
+android:textSize="9sp"
+app:autoSizeTextType="none"
+android:textStyle="bold"
+app:originalWidth="49"
+app:originalHeight="7"
+android:gravity="center_horizontal"
+android:layout_width="0dp"
+android:layout_height="10.08dp"
+android:layout_weight="1"
+app:layout_constraintStart_toStartOf="@+id/artwork_dashboard_row_5_container_8_text_7_guidelines_startd7de1e87_a990_4bdf_aaaa_4bbf769ea1ea"
+app:layout_constraintTop_toTopOf="@+id/artwork_dashboard_row_5_container_8_text_7_guidelines_topd7de1e87_a990_4bdf_aaaa_4bbf769ea1ea"
+app:layout_constraintEnd_toEndOf="@+id/artwork_dashboard_row_5_container_8_text_7_guidelines_endd7de1e87_a990_4bdf_aaaa_4bbf769ea1ea"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_dashboard_row_5_container_8_text_7_guidelines_bottomd7de1e87_a990_4bdf_aaaa_4bbf769ea1ea" />
+                </com.yotako.customView.YotakoConstraintLayout>
+            </com.yotako.customView.YotakoConstraintLayout>
+            <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_6_guidelines_top48fd1c46_c423_4da8_913d_c3d17e0cf7be"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.8452" />
+            <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_6_guidelines_start48fd1c46_c423_4da8_913d_c3d17e0cf7be"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.0623" />
+            <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_6_guidelines_bottom48fd1c46_c423_4da8_913d_c3d17e0cf7be"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.97536" />
+            <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_6_guidelines_end48fd1c46_c423_4da8_913d_c3d17e0cf7be"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.9388900000000001" />
+            <com.yotako.customView.YotakoConstraintLayout
+android:id="@+id/artwork_dashboard_row_6_48fd1c46_c423_4da8_913d_c3d17e0cf7be"
+app:originalWidth="329"
+app:originalHeight="111"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_marginTop="0dp"
+android:layout_marginBottom="0dp"
+android:layout_marginEnd="0dp"
+android:layout_marginStart="0dp"
+app:layout_constraintStart_toStartOf="@+id/artwork_dashboard_row_6_guidelines_start48fd1c46_c423_4da8_913d_c3d17e0cf7be"
+app:layout_constraintTop_toTopOf="@+id/artwork_dashboard_row_6_guidelines_top48fd1c46_c423_4da8_913d_c3d17e0cf7be"
+app:layout_constraintEnd_toEndOf="@+id/artwork_dashboard_row_6_guidelines_end48fd1c46_c423_4da8_913d_c3d17e0cf7be"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_dashboard_row_6_guidelines_bottom48fd1c46_c423_4da8_913d_c3d17e0cf7be">
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_6_container_9_guidelines_top81c2c66c_6d8a_469b_a43b_5831fa12fd43"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_6_container_9_guidelines_start81c2c66c_6d8a_469b_a43b_5831fa12fd43"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_6_container_9_guidelines_bottom81c2c66c_6d8a_469b_a43b_5831fa12fd43"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="1" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_6_container_9_guidelines_end81c2c66c_6d8a_469b_a43b_5831fa12fd43"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.4833" />
+                <com.yotako.customView.YotakoConstraintLayout
+android:id="@+id/artwork_dashboard_row_6_container_9_81c2c66c_6d8a_469b_a43b_5831fa12fd43"
+app:cornerRadius="3"
+app:shapeColor="#ffffff"
+app:originalWidth="159"
+app:originalHeight="111"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_marginTop="0dp"
+android:layout_marginBottom="0dp"
+android:layout_marginEnd="0dp"
+android:layout_marginStart="0dp"
+app:layout_constraintStart_toStartOf="@+id/artwork_dashboard_row_6_container_9_guidelines_start81c2c66c_6d8a_469b_a43b_5831fa12fd43"
+app:layout_constraintTop_toTopOf="@+id/artwork_dashboard_row_6_container_9_guidelines_top81c2c66c_6d8a_469b_a43b_5831fa12fd43"
+app:layout_constraintEnd_toEndOf="@+id/artwork_dashboard_row_6_container_9_guidelines_end81c2c66c_6d8a_469b_a43b_5831fa12fd43"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_dashboard_row_6_container_9_guidelines_bottom81c2c66c_6d8a_469b_a43b_5831fa12fd43">
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_6_container_9_image_8_guidelines_top8068c5e5_376c_44c9_bafc_9609095df792"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.2618" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_6_container_9_image_8_guidelines_start8068c5e5_376c_44c9_bafc_9609095df792"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.40840000000000004" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_6_container_9_image_8_guidelines_bottom8068c5e5_376c_44c9_bafc_9609095df792"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.56222" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_6_container_9_image_8_guidelines_end8068c5e5_376c_44c9_bafc_9609095df792"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.59458" />
+                    <com.yotako.customView.YotakoImageView
+android:id="@+id/artwork_dashboard_row_6_container_9_image_8"
+app:customUrl="https://designresources.assets.yotako.io/yjqrub0jrwzpw1z.png"
+android:alpha="1" 
+android:layout_height="0dp"
+android:layout_width="0dp"
+android:layout_weight="0"  android:adjustViewBounds="true" android:scaleType="fitXY"
+app:layout_constraintStart_toStartOf="@+id/artwork_dashboard_row_6_container_9_image_8_guidelines_start8068c5e5_376c_44c9_bafc_9609095df792"
+app:layout_constraintTop_toTopOf="@+id/artwork_dashboard_row_6_container_9_image_8_guidelines_top8068c5e5_376c_44c9_bafc_9609095df792"
+app:layout_constraintEnd_toEndOf="@+id/artwork_dashboard_row_6_container_9_image_8_guidelines_end8068c5e5_376c_44c9_bafc_9609095df792"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_dashboard_row_6_container_9_image_8_guidelines_bottom8068c5e5_376c_44c9_bafc_9609095df792" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_6_container_9_text_8_guidelines_topd26ae601_cd58_4ca5_ad61_2cedd735d86c"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.7167" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_6_container_9_text_8_guidelines_startd26ae601_cd58_4ca5_ad61_2cedd735d86c"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.19210000000000002" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_6_container_9_text_8_guidelines_bottomd26ae601_cd58_4ca5_ad61_2cedd735d86c"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.8669100000000001" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_6_container_9_text_8_guidelines_endd26ae601_cd58_4ca5_ad61_2cedd735d86c"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.81372" />
+                    <com.yotako.customView.YotakoTextView
+android:id="@+id/artwork_dashboard_row_6_container_9_text_8"
+android:fontFamily="cerapro"
+
+android:text="ADD / EDIT EMERGENCY
+CONTACTS " 
+android:textColor="#223420"
+android:textSize="9sp"
+app:autoSizeTextType="none"
+android:textStyle="bold"
+app:originalWidth="99"
+app:originalHeight="17"
+android:gravity="center_horizontal"
+android:layout_width="0dp"
+android:layout_height="24.479999999999997dp"
+android:layout_weight="1"
+app:layout_constraintStart_toStartOf="@+id/artwork_dashboard_row_6_container_9_text_8_guidelines_startd26ae601_cd58_4ca5_ad61_2cedd735d86c"
+app:layout_constraintTop_toTopOf="@+id/artwork_dashboard_row_6_container_9_text_8_guidelines_topd26ae601_cd58_4ca5_ad61_2cedd735d86c"
+app:layout_constraintEnd_toEndOf="@+id/artwork_dashboard_row_6_container_9_text_8_guidelines_endd26ae601_cd58_4ca5_ad61_2cedd735d86c"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_dashboard_row_6_container_9_text_8_guidelines_bottomd26ae601_cd58_4ca5_ad61_2cedd735d86c" />
+                </com.yotako.customView.YotakoConstraintLayout>
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_6_container_10_guidelines_top6244f988_f841_41df_a846_b6ee9d8391fd"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_6_container_10_guidelines_start6244f988_f841_41df_a846_b6ee9d8391fd"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.5152" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_6_container_10_guidelines_bottom6244f988_f841_41df_a846_b6ee9d8391fd"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="1" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_6_container_10_guidelines_end6244f988_f841_41df_a846_b6ee9d8391fd"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.9999600000000001" />
+                <com.yotako.customView.YotakoConstraintLayout
+android:id="@+id/artwork_dashboard_row_6_container_10_6244f988_f841_41df_a846_b6ee9d8391fd"
+app:cornerRadius="3"
+app:shapeColor="#ffffff"
+app:originalWidth="159"
+app:originalHeight="111"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_marginTop="0dp"
+android:layout_marginBottom="0dp"
+android:layout_marginEnd="0dp"
+android:layout_marginStart="0dp"
+app:layout_constraintStart_toStartOf="@+id/artwork_dashboard_row_6_container_10_guidelines_start6244f988_f841_41df_a846_b6ee9d8391fd"
+app:layout_constraintTop_toTopOf="@+id/artwork_dashboard_row_6_container_10_guidelines_top6244f988_f841_41df_a846_b6ee9d8391fd"
+app:layout_constraintEnd_toEndOf="@+id/artwork_dashboard_row_6_container_10_guidelines_end6244f988_f841_41df_a846_b6ee9d8391fd"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_dashboard_row_6_container_10_guidelines_bottom6244f988_f841_41df_a846_b6ee9d8391fd">
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_6_container_10_image_9_guidelines_topd95975a6_a2bc_4250_9d38_db76c7bcda3a"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.2618" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_6_container_10_image_9_guidelines_startd95975a6_a2bc_4250_9d38_db76c7bcda3a"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.3982" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_6_container_10_image_9_guidelines_bottomd95975a6_a2bc_4250_9d38_db76c7bcda3a"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.56222" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_6_container_10_image_9_guidelines_endd95975a6_a2bc_4250_9d38_db76c7bcda3a"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.60179" />
+                    <com.yotako.customView.YotakoImageView
+android:id="@+id/artwork_dashboard_row_6_container_10_image_9"
+app:customUrl="https://designresources.assets.yotako.io/yjqrub0jrwzpwf9.png"
+android:alpha="1" 
+android:layout_height="0dp"
+android:layout_width="0dp"
+android:layout_weight="0"  android:adjustViewBounds="true" android:scaleType="fitXY"
+app:layout_constraintStart_toStartOf="@+id/artwork_dashboard_row_6_container_10_image_9_guidelines_startd95975a6_a2bc_4250_9d38_db76c7bcda3a"
+app:layout_constraintTop_toTopOf="@+id/artwork_dashboard_row_6_container_10_image_9_guidelines_topd95975a6_a2bc_4250_9d38_db76c7bcda3a"
+app:layout_constraintEnd_toEndOf="@+id/artwork_dashboard_row_6_container_10_image_9_guidelines_endd95975a6_a2bc_4250_9d38_db76c7bcda3a"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_dashboard_row_6_container_10_image_9_guidelines_bottomd95975a6_a2bc_4250_9d38_db76c7bcda3a" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_6_container_10_text_9_guidelines_top18af073f_9f4e_4a1e_904f_3f00b8fb5bd4"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.7639" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_6_container_10_text_9_guidelines_start18af073f_9f4e_4a1e_904f_3f00b8fb5bd4"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.34729999999999994" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_6_container_10_text_9_guidelines_bottom18af073f_9f4e_4a1e_904f_3f00b8fb5bd4"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.8239799999999999" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_row_6_container_10_text_9_guidelines_end18af073f_9f4e_4a1e_904f_3f00b8fb5bd4"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.6556799999999999" />
+                    <com.yotako.customView.YotakoTextView
+android:id="@+id/artwork_dashboard_row_6_container_10_text_9"
+android:fontFamily="cerapro"
+
+android:text="DOWNLOAD" 
+android:textColor="#223420"
+android:textSize="9sp"
+app:autoSizeTextType="none"
+android:textStyle="bold"
+app:originalWidth="49"
+app:originalHeight="7"
+android:gravity="center_horizontal"
+android:layout_width="0dp"
+android:layout_height="10.08dp"
+android:layout_weight="1"
+app:layout_constraintStart_toStartOf="@+id/artwork_dashboard_row_6_container_10_text_9_guidelines_start18af073f_9f4e_4a1e_904f_3f00b8fb5bd4"
+app:layout_constraintTop_toTopOf="@+id/artwork_dashboard_row_6_container_10_text_9_guidelines_top18af073f_9f4e_4a1e_904f_3f00b8fb5bd4"
+app:layout_constraintEnd_toEndOf="@+id/artwork_dashboard_row_6_container_10_text_9_guidelines_end18af073f_9f4e_4a1e_904f_3f00b8fb5bd4"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_dashboard_row_6_container_10_text_9_guidelines_bottom18af073f_9f4e_4a1e_904f_3f00b8fb5bd4" />
+                </com.yotako.customView.YotakoConstraintLayout>
+            </com.yotako.customView.YotakoConstraintLayout>
+            <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_image_10_guidelines_topec531236_0b93_47e7_89db_f06429f9a319"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+            <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_image_10_guidelines_startec531236_0b93_47e7_89db_f06429f9a319"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0" />
+            <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_image_10_guidelines_bottomec531236_0b93_47e7_89db_f06429f9a319"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.23184000000000002" />
+            <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_image_10_guidelines_endec531236_0b93_47e7_89db_f06429f9a319"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="1" />
+            <com.yotako.customView.YotakoImageView
+android:id="@+id/artwork_dashboard_image_10"
+app:customUrl="https://designresources.assets.yotako.io/yjqrub0jrwzpwwi.png"
+android:alpha="1" 
+android:layout_height="0dp"
+android:layout_width="0dp"
+android:layout_weight="0"  android:adjustViewBounds="true" android:scaleType="fitXY"
+app:layout_constraintStart_toStartOf="@+id/artwork_dashboard_image_10_guidelines_startec531236_0b93_47e7_89db_f06429f9a319"
+app:layout_constraintTop_toTopOf="@+id/artwork_dashboard_image_10_guidelines_topec531236_0b93_47e7_89db_f06429f9a319"
+app:layout_constraintEnd_toEndOf="@+id/artwork_dashboard_image_10_guidelines_endec531236_0b93_47e7_89db_f06429f9a319"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_dashboard_image_10_guidelines_bottomec531236_0b93_47e7_89db_f06429f9a319" />
+            <com.yotako.customView.YotakoConstraintLayout
+android:id="@+id/artwork_dashboard_image_10_in"
+app:originalWidth="375"
+app:originalHeight="198"
+android:layout_width="375dp"
+android:layout_height="198dp"
+app:layout_constraintStart_toStartOf="@+id/artwork_dashboard_image_10_guidelines_startec531236_0b93_47e7_89db_f06429f9a319"
+app:layout_constraintTop_toTopOf="@+id/artwork_dashboard_image_10_guidelines_topec531236_0b93_47e7_89db_f06429f9a319"
+app:layout_constraintEnd_toEndOf="@+id/artwork_dashboard_image_10_guidelines_endec531236_0b93_47e7_89db_f06429f9a319"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_dashboard_image_10_guidelines_bottomec531236_0b93_47e7_89db_f06429f9a319">
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_image_10_text_10_guidelines_topf7e6706a_e6aa_4a7f_880b_c7063b6b47ed"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.4578" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_image_10_text_10_guidelines_startf7e6706a_e6aa_4a7f_880b_c7063b6b47ed"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.2086" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_image_10_text_10_guidelines_bottomf7e6706a_e6aa_4a7f_880b_c7063b6b47ed"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.6843" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_image_10_text_10_guidelines_endf7e6706a_e6aa_4a7f_880b_c7063b6b47ed"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.7912899999999999" />
+                <com.yotako.customView.YotakoTextView
+android:id="@+id/artwork_dashboard_image_10_text_10"
+android:fontFamily="colus"
+
+android:text="Create or update
+your will today" 
+android:textColor="#223420"
+android:textSize="21sp"
+app:autoSizeTextType="none"
+android:textStyle="normal"
+app:originalWidth="219"
+app:originalHeight="45"
+android:gravity="center_horizontal"
+android:layout_width="0dp"
+android:layout_height="54dp"
+android:layout_weight="1"
+app:layout_constraintStart_toStartOf="@+id/artwork_dashboard_image_10_text_10_guidelines_startf7e6706a_e6aa_4a7f_880b_c7063b6b47ed"
+app:layout_constraintTop_toTopOf="@+id/artwork_dashboard_image_10_text_10_guidelines_topf7e6706a_e6aa_4a7f_880b_c7063b6b47ed"
+app:layout_constraintEnd_toEndOf="@+id/artwork_dashboard_image_10_text_10_guidelines_endf7e6706a_e6aa_4a7f_880b_c7063b6b47ed"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_dashboard_image_10_text_10_guidelines_bottomf7e6706a_e6aa_4a7f_880b_c7063b6b47ed" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_image_10_text_11_guidelines_topd913a917_2259_4c2f_8262_e0fb59ff60e6"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.7493000000000001" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_image_10_text_11_guidelines_startd913a917_2259_4c2f_8262_e0fb59ff60e6"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.2646" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_image_10_text_11_guidelines_bottomd913a917_2259_4c2f_8262_e0fb59ff60e6"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.7902600000000001" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_image_10_text_11_guidelines_endd913a917_2259_4c2f_8262_e0fb59ff60e6"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.73533" />
+                <com.yotako.customView.YotakoTextView
+android:id="@+id/artwork_dashboard_image_10_text_11"
+android:fontFamily="cerapro"
+
+android:text="A GIFT FOR YOU &amp; YOUR FUTURE" 
+android:textColor="#00ad4d"
+android:textSize="10sp"
+app:autoSizeTextType="none"
+android:textStyle="bold"
+app:originalWidth="177"
+app:originalHeight="8"
+android:gravity="center_horizontal"
+android:layout_width="0dp"
+android:layout_height="11.52dp"
+android:layout_weight="1"
+app:layout_constraintStart_toStartOf="@+id/artwork_dashboard_image_10_text_11_guidelines_startd913a917_2259_4c2f_8262_e0fb59ff60e6"
+app:layout_constraintTop_toTopOf="@+id/artwork_dashboard_image_10_text_11_guidelines_topd913a917_2259_4c2f_8262_e0fb59ff60e6"
+app:layout_constraintEnd_toEndOf="@+id/artwork_dashboard_image_10_text_11_guidelines_endd913a917_2259_4c2f_8262_e0fb59ff60e6"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_dashboard_image_10_text_11_guidelines_bottomd913a917_2259_4c2f_8262_e0fb59ff60e6" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_image_10_button_0_guidelines_top004384f7_a689_4d44_899e_93e996e5a16c"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.2626" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_image_10_button_0_guidelines_start004384f7_a689_4d44_899e_93e996e5a16c"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.8498" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_image_10_button_0_guidelines_bottom004384f7_a689_4d44_899e_93e996e5a16c"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.42645000000000005" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_image_10_button_0_guidelines_end004384f7_a689_4d44_899e_93e996e5a16c"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.9388500000000001" />
+                <com.yotako.customView.YotakoConstraintLayout
+android:id="@+id/artwork_dashboard_image_10_button_0_layout"
+app:cornerRadius="6"
+android:background="@android:color/transparent"
+android:backgroundTint="@android:color/transparent"
+app:originalWidth="33"
+app:originalHeight="32"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_weight="1"
+android:layout_marginTop="0dp"
+android:layout_marginBottom="0dp"
+android:layout_marginEnd="0dp"
+android:layout_marginStart="0dp"
+app:layout_constraintStart_toStartOf="@+id/artwork_dashboard_image_10_button_0_guidelines_start004384f7_a689_4d44_899e_93e996e5a16c"
+app:layout_constraintTop_toTopOf="@+id/artwork_dashboard_image_10_button_0_guidelines_top004384f7_a689_4d44_899e_93e996e5a16c"
+app:layout_constraintEnd_toEndOf="@+id/artwork_dashboard_image_10_button_0_guidelines_end004384f7_a689_4d44_899e_93e996e5a16c"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_dashboard_image_10_button_0_guidelines_bottom004384f7_a689_4d44_899e_93e996e5a16c">
+                    <com.yotako.customView.YotakoButton
+android:id="@+id/artwork_dashboard_image_10_button_0"
+android:textAllCaps="false"
+android:alpha="1"
+app:cornerRadius="6"
+android:background="@android:color/transparent"
+android:backgroundTint="@android:color/transparent"
+app:originalWidth="33"
+app:originalHeight="32"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_weight="1"
+app:layout_constraintStart_toStartOf="@+id/artwork_dashboard_image_10_button_0_guidelines_start004384f7_a689_4d44_899e_93e996e5a16c"
+app:layout_constraintTop_toTopOf="@+id/artwork_dashboard_image_10_button_0_guidelines_top004384f7_a689_4d44_899e_93e996e5a16c"
+app:layout_constraintEnd_toEndOf="@+id/artwork_dashboard_image_10_button_0_guidelines_end004384f7_a689_4d44_899e_93e996e5a16c"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_dashboard_image_10_button_0_guidelines_bottom004384f7_a689_4d44_899e_93e996e5a16c"/>
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_image_10_button_0_image_11_guidelines_topa54e0e8e_cd28_4b51_8f77_4e2aee02c522"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.29410000000000003" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_image_10_button_0_image_11_guidelines_starta54e0e8e_cd28_4b51_8f77_4e2aee02c522"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.35710000000000003" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_image_10_button_0_image_11_guidelines_bottoma54e0e8e_cd28_4b51_8f77_4e2aee02c522"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.73527" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_dashboard_image_10_button_0_image_11_guidelines_enda54e0e8e_cd28_4b51_8f77_4e2aee02c522"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.6713800000000001" />
+                    <com.yotako.customView.YotakoImageView
+android:id="@+id/artwork_dashboard_image_10_button_0_image_11"
+app:customUrl="https://designresources.assets.yotako.io/yjqrub0jrwzpxl5.png"
+android:alpha="1" 
+android:layout_height="0dp"
+android:layout_width="0dp"
+android:layout_weight="0"  android:adjustViewBounds="true" android:scaleType="fitXY"
+app:layout_constraintStart_toStartOf="@+id/artwork_dashboard_image_10_button_0_image_11_guidelines_starta54e0e8e_cd28_4b51_8f77_4e2aee02c522"
+app:layout_constraintTop_toTopOf="@+id/artwork_dashboard_image_10_button_0_image_11_guidelines_topa54e0e8e_cd28_4b51_8f77_4e2aee02c522"
+app:layout_constraintEnd_toEndOf="@+id/artwork_dashboard_image_10_button_0_image_11_guidelines_enda54e0e8e_cd28_4b51_8f77_4e2aee02c522"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_dashboard_image_10_button_0_image_11_guidelines_bottoma54e0e8e_cd28_4b51_8f77_4e2aee02c522" />
+                </com.yotako.customView.YotakoConstraintLayout>
+            </com.yotako.customView.YotakoConstraintLayout>
+        </com.yotako.customView.YotakoConstraintLayout>
+    </ScrollView>
